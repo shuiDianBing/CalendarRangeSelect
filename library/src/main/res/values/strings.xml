@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">library</string>
+    <string name="text_calendar_start">开始</string>
+    <string name="text_calendar_stop">结束</string>
+    <string name="text_calendar_one">一天</string>
+    <string name="text_calendar_today">今天</string>
+    <string name="text_calendar_transit">在途</string>
+</resources>
